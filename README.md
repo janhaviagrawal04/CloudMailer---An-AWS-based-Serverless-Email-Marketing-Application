@@ -53,8 +53,3 @@ Here are a few ideas to extend the functionality of this application:
 - Integrate with a database like DynamoDB to store campaign results.
 
 
-- [AWS Project: Architect and Build an Email System Using DynamoDB, API Gateway, and Lambda](#)
-
-## 🙌 Credits
-
-This project is inspired by a tutorial created by [Your Name](#).
