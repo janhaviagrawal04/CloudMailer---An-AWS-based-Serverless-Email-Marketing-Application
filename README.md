@@ -52,12 +52,6 @@ Here are a few ideas to extend the functionality of this application:
 - Implement a retry mechanism for failed emails.
 - Integrate with a database like DynamoDB to store campaign results.
 
-## ⚠️ Important Notes
-
-- **💰 Costs:** Running this application on AWS may incur costs, depending on your usage.
-- **🔑 Permissions:** Ensure you properly configure IAM roles and policies to avoid permission errors.
-
-## 🔗 Related Projects
 
 - [AWS Project: Architect and Build an Email System Using DynamoDB, API Gateway, and Lambda](#)
 
