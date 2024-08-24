@@ -1,5 +1,3 @@
-# CloudMailer---An-AWS-based-Serverless-Email-Marketing-Application
-
 📧 Serverless Email Marketing Application
 This project is a hands-on tutorial demonstrating how to design and build a simple serverless email marketing application using AWS services. The application sends emails on a schedule, pulling HTML email templates and a list of contacts from an S3 bucket.
 
@@ -43,4 +41,3 @@ Integrate with a database like DynamoDB to store campaign results.
 ⚠️ Important Notes
 💰 Costs: Running this application on AWS may incur costs, depending on your usage.
 🔑 Permissions: Ensure you properly configure IAM roles and policies to avoid permission errors.
-
