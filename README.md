@@ -1,0 +1,1 @@
+# CloudMailer---An-AWS-based-Serverless-Email-Marketing-Application
